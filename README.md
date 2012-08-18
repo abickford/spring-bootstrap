@@ -5,8 +5,8 @@ Introduction
 ------------
 For those wanting to rapidly start a new Spring Framework MVC web application this project can help. The code contained here, when run in a web container such as Apache Tomcat 7, will start a new web context and initialize an @Controller which forwards to a JSP view that renders "Hello World" in your browser.
 
-Prerequisite
-------------
+Prerequisites
+-------------
 1. Oracle JDK 1.6 or greater
 2. Apache Maven 3.x
 
