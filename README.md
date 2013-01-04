@@ -7,7 +7,7 @@ For those wanting to rapidly start a new Spring Framework MVC web application th
 
 Prerequisites
 -------------
-1. Oracle JDK 1.6 or greater
+1. Oracle JDK 1.7
 2. Apache Maven 3.x
 
 Usage
